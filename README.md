@@ -49,9 +49,3 @@ Passionate about AI, ML, Web Development, and solving real-world problems throug
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail)](mailto:rajpatlepro1308@gmail.com)
 
 ---
-
-✨ *"Code. Learn. Build. Inspire."*
-
----
-
-✅ Do you want me to **add GitHub stats, contribution graph, streak badges, and trophies** for a fully attractive GitHub profile? Or **make this animated with typing effects and icons**?
